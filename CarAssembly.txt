@@ -3,12 +3,16 @@ abs// Here you will fill the tasks you've done
 
 
 // Team 1
-
+	1. motor #8 is the most suitable one.
+	2. Steering box is prepared for assembly.
+	3. Engine installed
+	4. Steering box in its place.
 
 
 
 // Team 2
-
+1) Car look: The car shall look like crap. This is the companies polocy to PR a 'we don't care' look to our cars, so our costumers know how dirty and not important they are. Because they are "hipsters"
+2) The aerodynamic test was sucessful. The car flew away into the wall as expected. 
 
 
 
