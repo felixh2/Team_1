@@ -8,6 +8,8 @@ abs// Here you will fill the tasks you've done
 	3. Engine installed
 	4. Steering box in its place.
 	5. Connected wires from wheels and breaks
+	6. Peripheral systems - lights and mobileye installed
+	7. Declared FINISH 
 
 
 
