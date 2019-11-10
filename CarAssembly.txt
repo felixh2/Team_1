@@ -12,8 +12,10 @@ abs// Here you will fill the tasks you've done
 
 // Team 2
 1) Car look: The car shall look like crap. This is the companies polocy to PR a 'we don't care' look to our cars, so our costumers know how dirty and not important they are. Because they are "hipsters"
+
 2) The aerodynamic test was sucessful. The car flew away into the wall as expected. 
 
+3) ABS system made the car feel like Rocket League.. Good. APROOVED.
 
 
 
